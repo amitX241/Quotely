@@ -5,6 +5,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Description 
 Randomly generates a quote and background using quotes api and unsplash respectively. Image can be downloaded by clicking the download button.
 
+## Live Links
+www.quotely.ml (Try below link if this link is broken)
+
+https://graceful-paprenjak-801689.netlify.app/
+
 ## Snapshots
 ![Quote 1](https://ik.imagekit.io/zatkf9sf1/Screenshot__44__OIBrco1PQ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652633613134)
 
