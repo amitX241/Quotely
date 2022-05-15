@@ -2,6 +2,21 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Description 
+Randomly generates a quote and background using quotes api and unsplash respectively. Image can be downloaded by clicking the download button.
+
+## Snapshots
+![Quote 1](https://ik.imagekit.io/zatkf9sf1/Screenshot__44__OIBrco1PQ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652633613134)
+
+**Snapshot 1**
+
+![Quote 2](https://ik.imagekit.io/zatkf9sf1/Screenshot__43__62cHdgcDd.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652633613132)
+
+**Snapshot 2**
+
+![Downloaded Image](https://ik.imagekit.io/zatkf9sf1/Quotes__4__qy2wtp8hz3.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652633613481)
+
+**Downloaded Image**
 ## Available Scripts
 
 In the project directory, you can run:
